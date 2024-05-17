@@ -5,5 +5,6 @@ Created a simple calculator application with HTML, CSS, and JavaScript. This pro
 
 ## Preview
 
+![calculator](https://github.com/Reddi0019/Afame-Technologies/assets/144756187/e779f830-a50c-4826-a089-4fe9d0ec72cb)
 
 
